@@ -1,0 +1,91 @@
+
+
+
+
+Program	BS (Software Engineering) (3)
+Semester	Fall 2022
+Course	Software Construction & Development
+Course Code	CS 4121
+Instructor	Ahmed Akhtar
+Email: ahmed.akhtar@jinnah.edu
+
+Books	Textbook:
+•	Software Development A Practical Approach! Hans-Petter Halvorsen Copyright © 2020
+
+•	Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin, Prentice Hall, 2008
+
+•	The Pragmatic Programmer: From Journeyman to Master, Andrew Hunt and David Thomas, Addison-Wesley Professional, 1999.
+
+Reference Books:
+•	Working Effectively with Legacy Code, Michael C. Feathers. Pearson Education, Prentice-Hall, 2004.
+
+•	Refactoring: Improving the Design of Existing Code, Martin Fowler, Addison-Wesley Professional. 1999.
+
+ 
+
+Course Description:
+The goal of this course is for the student to acquire an understanding of the principles of and skills in current practices, issues, methods, and techniques associated with constructing software. Topics include detailed design methods and notations, implementation tools, coding standards and styles, peer review techniques, and maintenance issues.
+Course Objectives:
+1.	Understand the software process models and their selection for different projects.
+2.	Understand the process improvement and continuous improvement in development.
+3.	Understand the concept of refactoring and legacy code.
+4.	Understand the concept of error handling and fault tolerance.
+5.	Learn to communicate and solve problems effectively as a member of a team.
+
+Learning Outcomes:
+1.	Demonstrate by example the key construction life cycle models.
+2.	Apply appropriate refactoring techniques to resolve design problems in code.
+3.	Apply common construction and maintenance heuristics to enhance existing code, such as ways to eliminate global variables and ways to test difficult code.
+4.	Describe the ways configuration management is used in production systems.
+
+Mapping of Course Learning Outcomes with Bloom’s Taxonomy:
+	Course Learning Outcome 1	Course Learning Outcome 2	Course Learning Outcome 3
+Bloom’s Taxonomy			
+Remembering	✔		
+Understanding		✔	
+Applying			✔
+Analyzing		✔	
+Evaluating			✔
+Creating			✔
+
+
+
+
+
+
+
+Session-wise Course Breakdown
+
+Session	Contents
+1	Introduction to Software Construction and Development, Software Process, and activities.
+	Software Development Life Cycle (SDLC),
+2	Software Process Model, Adaptive and Predictive approach, Iterative and Incremental approach, Waterfall model, V-model, and case studies
+3	Incremental model, Prototyping model, Spiral model, RAD, Big Bang model, and case studies.
+4	Agile Manifesto, Values, Principles, Agile Frameworks.
+5	Scrum and Extreme Programming
+6	Software Process Infrastructure, Software Process Improvement, Capability Maturity Model (CMM)
+7	Software process activities planning, analysis, design, implementation, and testing. (Revision) Discuss small software projects to understand all the activities.
+8	How to create UI with respect to HTML, CSS, BOOTSTRAP, JS
+9	Why do we create functions or methods? The default method, parameterized method, named argument method, return type method, recursive function, and all function categories.
+10	What is an array? Type of array, the difference between Array List, list, sorted list, and dictionaries.
+11	What is an iteration? For loop, while loop, do-while loop, and for each loop 
+12	OOP Concepts (inheritance, abstraction, encapsulation, polymorphism) 
+13	Creating web forms (Static forms)
+14	Database connectivity
+15	Creating web forms (dynamic forms)
+16	Project Evaluation and Presentation.
+
+Student Assessment Scheme and Grading Percentage:
+
+S. No.	Assessments	Percentage
+1	Quizzes	10%
+2	Assignments	10%
+3	Project	20%
+4	Midterm Examination	20%
+5	Final Exam	40%
+
+Prepared by:
+Ahmed Akhtar
+Dated: 
+September 2022
+
