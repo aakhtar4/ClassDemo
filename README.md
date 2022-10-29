@@ -1,4 +1,4 @@
-# ClassDemo
+# ClassDemo 2
 
 Training on smartgit.
 
