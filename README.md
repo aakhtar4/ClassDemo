@@ -1,0 +1,3 @@
+# ClassDemo
+
+Training on smartgit.
