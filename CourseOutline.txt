@@ -34,6 +34,7 @@ Course Objectives:
 3.	Understand the concept of refactoring and legacy code.
 4.	Understand the concept of error handling and fault tolerance.
 5.	Learn to communicate and solve problems effectively as a member of a team.
+6. Learn through project.
 
 Learning Outcomes:
 1.	Demonstrate by example the key construction life cycle models.
