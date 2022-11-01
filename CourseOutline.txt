@@ -27,7 +27,7 @@ New Book
  
 
 Subject Descriptions:
-The goal of this course is for the student to acquire an understanding of the principles of and skills in current practices, issues, methods, and techniques associated with constructing software. Topics include detailed design methods and notations, implementation tools, coding standards and styles, peer review techniques, and maintenance issues.
+The goal of this course is for the student to acquire an understanding of the principles of and skills in current practices, issues, methods, and techniques associated with constructing software. Topics include detailed design methods and notations. artificial intelligence, implementation tools, coding standards and styles, peer review techniques, and maintenance issues.
 Course Objectives:
 1.	Understand the software process models and their selection for different projects.
 2.	Understand the process improvement and continuous improvement in development.
