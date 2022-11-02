@@ -9,7 +9,7 @@ Semester	Fall 2022
 Course	Software Construction & Development
 Course Code	CS 4121
 Instructor	SAeed Ullah
-Email: ahmed.akhtar@jinnah.edu
+Email: sp21bsse0045@maju.edu
 
 Books	Textbook:
 •	Software Development A Practical Approach! Hans-Petter Halvorsen Copyright © 2020
